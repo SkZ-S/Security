@@ -1,0 +1,52 @@
+{
+    "--------------------------------------------------" : "Identité",
+
+    "nom": "**🛡・Security**",
+    "licenceImage": "[Auteur et licence](lien)",
+    "hebergement": "[hebergement](lien)",
+
+    "prefixconfig": "S-",
+    "token": "ODU5NDY3MTk3NDUyMzg2MzE1.YNtHNA.yNXKhgcPOkW_qY8HntYRH7d6ILk",
+
+    "-------------------------------------------------" : "Serveur",
+
+    "guild": "nom",
+    "guildImage": "none",
+
+    "invitation": "code",
+    "modchannelid": "859393100039323649",
+    "modchannelbisid": "859393100039323649",
+    "genchannelid": "859393100039323649",
+
+    "------------------------------------------------" : "Services",
+
+    "ynInvitation": 1,
+    "ynRaid": 1,
+    "ynPseudo": 1,
+    "ynStatut": 1,  
+    "ynAide": 1,
+    "ynInfo": 1,
+    "ynPing": 1,
+    "ynClear": 1,
+    "ynStop": 1,
+    "ynConfig": 1,
+    "ynLock": 1,
+    "ynVerif": 1,
+
+    "-----------------------" : "Raid",
+
+    "raidon": 2,
+    "raiddelais": -100,
+    "raiddelaisH": "une minute",
+
+    "------------------------" : "Pseudo",
+
+    "pseudointerdit": ["mot", "interdit", "nazi", "hitler", "Hitler", "fdp"],
+
+    "-------------------------" : "Vérification",
+
+    "idWikiAuthBot" : "859393100039323649",
+    "verifRole": "859393100039323649",
+    "channelAuth" : "859393100039323649"
+
+}
